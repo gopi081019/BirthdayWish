@@ -84,9 +84,11 @@ export default function BirthdayWish() {
           className="wish-button"
           onClick={openWish}
         >
-          <span>💌</span>
+          <a style={{textDecoration: "none"}} href="https://drive.google.com/drive/folders/1aTsWxeis9O8N81frc3eCtAZDXyrlaPrz">
+            <span>💌</span>
           Open Your Surprise
           <span>❤️</span>
+          </a>
         </button>
 
         <div className="cake">
