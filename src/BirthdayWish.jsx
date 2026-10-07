@@ -335,7 +335,7 @@ export default function BirthdayWish() {
         <h1>
           Happy
           <span>
-            Birthday Chellame
+            Birthday Revathi💖
           </span>
         </h1>
 
