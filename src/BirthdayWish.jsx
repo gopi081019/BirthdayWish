@@ -7,7 +7,7 @@ export default function BirthdayWish() {
   // =========================================================
 
   const googleDocLink =
-    "https://docs.google.com/document/d/YOUR_DOCUMENT_ID/edit";
+    "https://drive.google.com/file/d/1OnCDAAyreDhAV4H2ARESSbl4X6OfXiuH/view?usp=drivesdk";
 
 
   // =========================================================
