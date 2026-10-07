@@ -61,7 +61,7 @@ export default function BirthdayWish() {
 
         <h1>
           Happy
-          <span>Birthday Chellame</span>
+          <span>Birthday Revathi</span>
         </h1>
 
         <div className="heart-line">
